@@ -61,12 +61,13 @@ main{
 
 @media screen and (max-width:768px) {  
 	main{
-		width:90%;
+		width:100%;
 	}
 
 	.blog{
 		margin: 0 auto 20px auto;
 		float:none;
+		width:90%;
 	}
 
 	.blog:nth-child(2){
